@@ -56,7 +56,7 @@ This project focuses on **Exploratory Data Analysis (EDA)** of hotel booking dat
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/SJS-HUB/hotel-booking-EDA.git
+   git clone https://github.com/SJS-HUB/Exploratory-Data-Analysis-of-Hotel-Booking-Data.git
 
 2. Navigate to the project directory:
    ```bash
